@@ -26,4 +26,7 @@ Current research interests focuses on:
 - Neural Network Accelerator (神经网络加速器)
 - General-Purpose Graphics Processing Units (GPGPU) (通用图形处理器)
 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=RqR0-tM_DVHQvWiaE4Tf3z1GNHZmopCIm2IAW2lkG3k'></script>
+
+Recent Visits to My Homepage
+-----------
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=5ENQSBXjifLu7lCkdtYYudnNro5b6HDmspd3MPzU4Sk&cl=ffffff&w=a"></script>
