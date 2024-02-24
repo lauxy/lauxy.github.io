@@ -1,7 +1,7 @@
 ---
-layout: home
+layout: page
 title: Xueyuan Liu
-subtitle: Ph.D. Student in the Department of Computer Science and Engineering at Shanghai Jiao Tong University.
+subtitle: Ph.D. Student @ ACALab, SEIEE, Shanghai Jiao Tong University
 ---
 
 News

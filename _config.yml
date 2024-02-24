@@ -22,7 +22,7 @@ author: Xueyuan Liu
 navbar-links:
   About Me: "aboutme"
   Publications: "publications"
-  # Blogs: "blogs"
+  Blogs: "blogs"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
