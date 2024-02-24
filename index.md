@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Xueyuan Liu
-subtitle: Ph.D. Student @ ACALab, SEIEE, Shanghai Jiao Tong University
+subtitle: Ph.D. Student @ ACALab, CSE, SEIEE, Shanghai Jiao Tong University
 ---
 
 News
@@ -19,14 +19,16 @@ Research
 -----------
 Current research interests focuses on:
 
+- Neural Network Accelerator (神经网络加速器)
+- General-Purpose Graphics Processing Units (GPGPU) (通用图形处理器)
 - Point Cloud (点云)
     - Point Cloud Neural Network (点云神经网络)
     - Point Cloud Compression (点云压缩)
     - Point Cloud Rendering (点云渲染)
-- Neural Network Accelerator (神经网络加速器)
-- General-Purpose Graphics Processing Units (GPGPU) (通用图形处理器)
 
 
 Recent Visits to My Homepage
 -----------
+
+
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=5ENQSBXjifLu7lCkdtYYudnNro5b6HDmspd3MPzU4Sk&cl=ffffff&w=a"></script>

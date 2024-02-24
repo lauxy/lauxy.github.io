@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a Ph.D. student at Shanghai Jiao Tong University (SJTU), specialized in **computer architecture designed, software-hardware co-design, neural network accleration, GPGPU architecture, and point cloud related fields (e.g., point cloud neural network, point cloud compression, point cloud rendering)**. I am currently working in the [ACALab](https://acalab.sjtu.edu.cn/CN/Default.aspx), advised by Prof. Xiaoyao Liang.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+# Education
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- **Ph.D. in Computer Science and Technology**, Shanghai Jiao Tong University, 2020 - Present
+- **B.Eng. in Computer Science and Technology**, Northeastern University, 2016 - 2020
