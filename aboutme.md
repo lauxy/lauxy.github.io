@@ -17,4 +17,4 @@ I am a Ph.D. student at Shanghai Jiao Tong University (SJTU), specialized in **c
 
 **Chairman-Elect** of the Executive Committee, SJTU Student Branch of China Computer Federation (CCF), 2022 - 2023 [[view]](https://www.ccf.org.cn/Chapters/Student_Chapters/SJTU/hyhdzxdt/2022-11-14/777306.shtml)
 
-**Executive Committee Member** of the Executive Committee, SJTU Student Branch of China Computer Federation (CCF), 2021 - 2022
+**Committee Member** of the Executive Committee, SJTU Student Branch of China Computer Federation (CCF), 2021 - 2022
