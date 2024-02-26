@@ -6,11 +6,11 @@ title: Publications
 
 # 2024
 
-**Xueyuan Liu**, Zhuoran Song, Hao Chen, Xing Li, and Xiaoyao Liang. MoC: A Morton-Code-Based Fine-Grained Quantization for Accelerating Point Cloud Neural Networks. Accepted by Design Automation Conference (DAC 2024, CCF-A). [[blog]](/_posts/2024-02-14-MoC-A-Morton-Code-Based-Fine-Grained-Quantization-for-Accelerating-Point-Cloud-Neural-Networks.md)
+**Xueyuan Liu**, Zhuoran Song, Hao Chen, Xing Li, and Xiaoyao Liang. MoC: A Morton-Code-Based Fine-Grained Quantization for Accelerating Point Cloud Neural Networks. Accepted by Design Automation Conference (DAC 2024, CCF-A). [[blog]](/_posts/2024-02-14-MoC_%20A%20Morton-Code-Based%20Fine-Grained%20Quantization%20for%20Accelerating%20Point%20Cloud%20Neural%20Networks.md)
 
-**Xueyuan Liu**, Zhuoran Song, Guohao Dai, Gang Li, Can Xiao, Yan Xiang, Dehui Kong, Ke Xu and Xiaoyao Liang. FusionArch: A Fusion-Based Accelerator for Point-Based Point Cloud Neural Networks. Accepted by Design, Automation, and Test in Europe (DATE 2024, CCF-B). <font color=red>Best Paper Nomination.</font> [[blog]](/_posts/2023-11-12-FusionArch-A-Fusion-Based-Accelerator-for-Point-Based-Point-Cloud-Neural-Networks.md)
+**Xueyuan Liu**, Zhuoran Song, Guohao Dai, Gang Li, Can Xiao, Yan Xiang, Dehui Kong, Ke Xu and Xiaoyao Liang. FusionArch: A Fusion-Based Accelerator for Point-Based Point Cloud Neural Networks. Accepted by Design, Automation, and Test in Europe (DATE 2024, CCF-B). <font color=red>Best Paper Nomination.</font> [[blog]](/_posts/2023-11-12-FusionArch_%20A%20Fusion-Based%20Accelerator%20for%20Point-Based%20Point%20Cloud%20Neural%20Networks.md)
 
-**Xueyuan Liu**, Zhuoran Song, Xiang Liao, Xing Li, Tao Yang, Fangxin Liu and Xiaoyao Liang. Sava: A Spatial- and Value-Aware Accelerator for Point Cloud Transformers. Accepted by Design, Automation, and Test in Europe (DATE 2024, CCF-B). [[blog]](/_posts/2023-11-12-Sava-A-Spatial-and-Value-Aware-Accelerator-for-Point-Cloud-Transformer.md)
+**Xueyuan Liu**, Zhuoran Song, Xiang Liao, Xing Li, Tao Yang, Fangxin Liu and Xiaoyao Liang. Sava: A Spatial- and Value-Aware Accelerator for Point Cloud Transformers. Accepted by Design, Automation, and Test in Europe (DATE 2024, CCF-B). [[blog]](/_posts/2023-11-12-Sava_%20A%20Spatial-%20and%20Value-Aware%20Accelerator%20for%20Point%20Cloud%20Transformer.md)
 
 # 2022
 
