@@ -1,12 +1,12 @@
 ---
 layout: post
-title: FusionArch: A Fusion-Based Accelerator for Point-Based Point Cloud Neural Networks
+# title: FusionArch: A Fusion-Based Accelerator for Point-Based Point Cloud Neural Networks
 # subtitle: Excerpt from Soulshaping by Jeff Brown
-# cover-img: /assets/img/path.jpg
+cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/post/fusionarch-challenge.png
 # share-img: /assets/img/path.jpg
 tags: [Point Cloud Neural Network, AI accelerator]
-author: Xueyuan Liu, Zhuoran Song, Guohao Dai, Gang Li, Can Xiao, Yan Xiang, Dehui Kong, Ke Xu and Xiaoyao Liang
+# author: Xueyuan Liu, Zhuoran Song, Guohao Dai, Gang Li, Can Xiao, Yan Xiang, Dehui Kong, Ke Xu and Xiaoyao Liang
 ---
 
 Point-based Point Cloud Neural Networks (PCNNs) have attracted much attention for their higher accuracy than voxel-based and multi-view-based PCNNs. Nevertheless, the increasing scale of point cloud data poses a challenge for real-time processing. Numerous previous works focus on accelerating PCNN inference but only optimize specific stages, limiting their generality to different networks with diverse performance bottlenecks. 
