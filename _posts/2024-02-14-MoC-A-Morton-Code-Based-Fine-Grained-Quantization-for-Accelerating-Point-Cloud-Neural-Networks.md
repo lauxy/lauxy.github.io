@@ -2,9 +2,9 @@
 layout: post
 title: [Paper] MoC: A Morton-Code-Based Fine-Grained Quantization for Accelerating Point Cloud Neural Networks
 # subtitle: Excerpt from Soulshaping by Jeff Brown
-# cover-img: /assets/img/path.jpg
+cover-img: /assets/img/post/moc-algorithm.png
 thumbnail-img: /assets/img/post/moc-algorithm.png
-# share-img: /assets/img/path.jpg
+share-img: /assets/img/post/moc-algorithm.png
 tags: [Point Cloud Neural Network, AI accelerator]
 author: Xueyuan Liu, Zhuoran Song, Hao Chen, Xing Li, and Xiaoyao Liang
 ---
@@ -15,7 +15,7 @@ Point Cloud Neural Network (PCNN) plays an essential role in various 3D applicat
 Authors: **Xueyuan Liu**, Zhuoran Song, Hao Chen, Xing Li, and Xiaoyao Liang
 
 
-![fusionarch](/assets/img/post/moc-algorithm.png)
+![moc](/assets/img/post/moc-algorithm.png)
 
 * Accepted by Design Automation Conference (DAC 2024, CCF-A).
 * [paper]() (coming soon...)

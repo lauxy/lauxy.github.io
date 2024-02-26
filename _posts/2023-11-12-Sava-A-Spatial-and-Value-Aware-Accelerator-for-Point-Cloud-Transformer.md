@@ -14,7 +14,7 @@ Point Cloud Transformer is undergoing a rising trend in both industry and academ
 Authors: **Xueyuan Liu**, Zhuoran Song, Xiang Liao, Xing Li, Tao Yang, Fangxin Liu and Xiaoyao Liang
 
 
-<img src="../assets/img/post/sava-algorithm.png" alt="图片替换文本" width="500" height="300" />
+<img src="../assets/img/post/sava-algorithm.png" alt="Sava Algorithm" width="500" height="300" />
 
 * Accepted by Design, Automation, and Test in Europe (DATE 2024, CCF-B)
 * [paper]() (coming soon...)
