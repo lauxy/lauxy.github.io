@@ -1,6 +1,6 @@
 ---
 layout: home
 title: Blogs
-subtitle: ""
-comments: true
+# subtitle: ""
+# comments: true
 ---
