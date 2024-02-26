@@ -2,7 +2,7 @@
 layout: post
 # title: FusionArch: A Fusion-Based Accelerator for Point-Based Point Cloud Neural Networks
 # subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
+# cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/post/fusionarch-challenge.png
 # share-img: /assets/img/path.jpg
 tags: [Point Cloud Neural Network, AI accelerator]
