@@ -1,6 +1,6 @@
 ---
 layout: post
-# title: MoC: A Morton-Code-Based Fine-Grained Quantization for Accelerating Point Cloud Neural Networks
+title: MoC: A Morton-Code-Based Fine-Grained Quantization for Accelerating Point Cloud Neural Networks
 # subtitle: Excerpt from Soulshaping by Jeff Brown
 # cover-img: /assets/img/post/moc-algorithm.png
 thumbnail-img: /assets/img/post/moc-algorithm.png
