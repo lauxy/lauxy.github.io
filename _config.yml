@@ -94,17 +94,17 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: false
-  linkedin: true
-  vk: false
+  # twitter: false
+  # facebook: false
+  # linkedin: false
+  # vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "lauxy.github.io"
+# url-pretty: "lauxy.github.io"
 
 # Add the website title to the title of every page
-title-on-all-pages: true
+# title-on-all-pages: true
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
