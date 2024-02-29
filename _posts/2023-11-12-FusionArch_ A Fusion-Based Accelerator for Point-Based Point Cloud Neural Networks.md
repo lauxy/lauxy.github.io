@@ -18,6 +18,6 @@ Authors: **Xueyuan Liu**, Zhuoran Song, Guohao Dai, Gang Li, Can Xiao, Yan Xiang
 
 ![fusionarch](/assets/img/post/fusionarch-challenge.png)
 
-* Accepted by Design, Automation, and Test in Europe (DATE 2024, CCF-B) <font color=red>Best Paper Nomination.</font>
+* Accepted by Design, Automation, and Test in Europe (DATE 2024, CCF-B) <font color=red>Best Paper Award.</font>
 * [paper]() (coming soon...)
 * [cite]() (coming soon...)

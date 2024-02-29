@@ -6,6 +6,8 @@ subtitle: Ph.D. Student @ ACALab, CSE, SEIEE, Shanghai Jiao Tong University
 
 News
 -----------
+`2024.03` Our paper “FusionArch: A Fusion-Based Accelerator for Point-Based Point Cloud Neural Networks” has received Best Paper Award from DATE 2024.
+
 `2024.02` Our paper "MoC: A Morton-Code-Based Fine-Grained Quantization for Accelerating Point Cloud Neural Networks" has been accepted by DAC.
 
 `2023.11` Our paper "FusionArch: A Fusion-Based Accelerator for Point-Based Point Cloud Neural Networks" has been nominated as a Best Paper Award Candidate.

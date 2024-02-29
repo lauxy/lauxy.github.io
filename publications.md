@@ -8,7 +8,7 @@ title: Publications
 
 **Xueyuan Liu**, Zhuoran Song, Hao Chen, Xing Li, and Xiaoyao Liang. MoC: A Morton-Code-Based Fine-Grained Quantization for Accelerating Point Cloud Neural Networks. Accepted by Design Automation Conference (DAC 2024, CCF-A). [[blog]](/_posts/2024-02-14-MoC_ A Morton-Code-Based Fine-Grained Quantization for Accelerating Point Cloud Neural Networks.md)
 
-**Xueyuan Liu**, Zhuoran Song, Guohao Dai, Gang Li, Can Xiao, Yan Xiang, Dehui Kong, Ke Xu and Xiaoyao Liang. FusionArch: A Fusion-Based Accelerator for Point-Based Point Cloud Neural Networks. Accepted by Design, Automation, and Test in Europe (DATE 2024, CCF-B). <font color=red>Best Paper Nomination.</font> [[blog]](/_posts/2023-11-12-FusionArch_ A Fusion-Based Accelerator for Point-Based Point Cloud Neural Networks.md)
+**Xueyuan Liu**, Zhuoran Song, Guohao Dai, Gang Li, Can Xiao, Yan Xiang, Dehui Kong, Ke Xu and Xiaoyao Liang. FusionArch: A Fusion-Based Accelerator for Point-Based Point Cloud Neural Networks. Accepted by Design, Automation, and Test in Europe (DATE 2024, CCF-B). <font color=red>Best Paper Award.</font> [[blog]](/_posts/2023-11-12-FusionArch_ A Fusion-Based Accelerator for Point-Based Point Cloud Neural Networks.md)
 
 **Xueyuan Liu**, Zhuoran Song, Xiang Liao, Xing Li, Tao Yang, Fangxin Liu and Xiaoyao Liang. Sava: A Spatial- and Value-Aware Accelerator for Point Cloud Transformers. Accepted by Design, Automation, and Test in Europe (DATE 2024, CCF-B). [[blog]](/_posts/2023-11-12-Sava_ A Spatial- and Value-Aware Accelerator for Point Cloud Transformer.md)
 
