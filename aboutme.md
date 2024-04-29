@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-I am a Ph.D. student at Shanghai Jiao Tong University (SJTU), specialized in **computer architecture designed, software-hardware co-design, neural network accleration, GPGPU architecture, and point cloud related fields (e.g., point cloud neural network, point cloud compression, point cloud rendering)**. I am currently working in the [ACALab](https://acalab.sjtu.edu.cn/CN/Default.aspx), advised by Prof. Xiaoyao Liang.
+I am a Ph.D. candidate at Shanghai Jiao Tong University (SJTU), specialized in **computer architecture, software-hardware co-design, neural network accleration, GPGPU architecture, and point cloud related fields (incl. point cloud neural network, point cloud compression, point cloud rendering)**. I am currently working in the [ACALab](https://acalab.sjtu.edu.cn/CN/Default.aspx), advised by Prof. Xiaoyao Liang.
 
 # Education
 

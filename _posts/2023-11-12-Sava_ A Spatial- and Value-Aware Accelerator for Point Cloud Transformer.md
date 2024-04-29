@@ -18,6 +18,6 @@ Authors: **Xueyuan Liu**, Zhuoran Song, Xiang Liao, Xing Li, Tao Yang, Fangxin L
 
 * Accepted by Design, Automation, and Test in Europe (DATE 2024)
 * [paper]() (coming soon...)
-* [slide]() (coming soon...)
-* [poster]() (coming soon...)
+* [slide](../_slides/DATE24-Sava-Xueyuan.pptx) (coming soon...)
+* [poster](../_poster/FusionArch-poster-DATE.pptx) (coming soon...)
 * [cite]() (coming soon...)
