@@ -20,6 +20,6 @@ Authors: **Xueyuan Liu**, Zhuoran Song, Guohao Dai, Gang Li, Can Xiao, Yan Xiang
 
 * Accepted by Design, Automation, and Test in Europe (DATE 2024) <font color=red>Best Paper Award.</font>
 * [paper]() (coming soon...)
-* [slide](../_slides/DATE24-FusionArch-v2.pptx) (coming soon...)
-* [poster](../_poster/FusionArch-poster-DATE.pptx) (coming soon...)
+* [slide](../_slides/DATE24-FusionArch-v2.pptx)
+* [poster](../_poster/FusionArch-poster-DATE.pptx)
 * [cite]() (coming soon...)
