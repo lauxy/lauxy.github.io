@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Xueyuan Liu
-subtitle: Ph.D. Student @ ACALab, CSE, SEIEE, Shanghai Jiao Tong University
+subtitle: Ph.D. Student @ ACALab, CSE, Shanghai Jiao Tong University
 ---
 
 News
