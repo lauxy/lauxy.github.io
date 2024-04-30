@@ -20,6 +20,6 @@ Authors: **Xueyuan Liu**, Zhuoran Song, Guohao Dai, Gang Li, Can Xiao, Yan Xiang
 
 * Accepted by Design, Automation, and Test in Europe (DATE 2024) <font color=red>Best Paper Award.</font>
 * [paper]() (coming soon...)
-* [slide](https://jbox.sjtu.edu.cn/l/X1V5eT)
-* [poster](https://jbox.sjtu.edu.cn/l/v1ijKp)
+* [slide](https://jbox.sjtu.edu.cn:10081/v2%2Fdelivery%2Fdata%2F32ca84b093fa4f9bae73e5b577b4b2dd%2F?)
+* [poster](https://jbox.sjtu.edu.cn:10081/v2%2Fdelivery%2Fdata%2F1b4bb9caa4504fceb4d5eeafa0edeb8a%2F?)
 * [cite]() (coming soon...)
