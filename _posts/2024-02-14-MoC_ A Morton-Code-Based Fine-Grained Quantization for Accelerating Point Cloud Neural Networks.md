@@ -19,7 +19,7 @@ Authors: **Xueyuan Liu**, Zhuoran Song, Hao Chen, Xing Li, and Xiaoyao Liang
 
 * Accepted by Design Automation Conference (DAC 2024).
 * [paper]() (coming soon...)
-* [slide]() (coming soon...)
-* [poster]() (coming soon...)
+* [slide](https://jbox.sjtu.edu.cn/l/Z1TOy3)
+* [poster](https://jbox.sjtu.edu.cn/l/n1b2kK)
 * [cite]() (coming soon...)
 * [post](https://mp.weixin.qq.com/s/LA7DlKV_C5ryx-uyp9JGcw)

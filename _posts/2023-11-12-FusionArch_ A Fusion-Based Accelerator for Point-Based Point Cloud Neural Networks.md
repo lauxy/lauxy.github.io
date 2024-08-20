@@ -19,7 +19,7 @@ Authors: **Xueyuan Liu**, Zhuoran Song, Guohao Dai, Gang Li, Can Xiao, Yan Xiang
 ![fusionarch](/assets/img/post/fusionarch-challenge.png)
 
 * Accepted by Design, Automation, and Test in Europe (DATE 2024) <font color=red>Best Paper Award.</font>
-* [paper]() (coming soon...)
+* [paper](https://ieeexplore.ieee.org/abstract/document/10546759)
 * [slide](https://jbox.sjtu.edu.cn:10081/v2%2Fdelivery%2Fdata%2F32ca84b093fa4f9bae73e5b577b4b2dd%2F?)
 * [poster](https://jbox.sjtu.edu.cn:10081/v2%2Fdelivery%2Fdata%2F1b4bb9caa4504fceb4d5eeafa0edeb8a%2F?)
-* [cite]() (coming soon...)
+* [cite](https://scholar.googleusercontent.com/scholar.bib?q=info:6z7IVFrA81gJ:scholar.google.com/&output=citation&scisdr=ClHXPTw8EMPR0nV4Q7k:AFWwaeYAAAAAZsR-W7m4D1MEy-GWoIU8W9WUoEA&scisig=AFWwaeYAAAAAZsR-WyjBTY-v2Ma541DFACeqMOQ&scisf=4&ct=citation&cd=-1&hl=zh-CN) 

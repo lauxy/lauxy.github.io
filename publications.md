@@ -12,7 +12,7 @@ title: Publications
 
 **Xueyuan Liu**, Zhuoran Song, Xiang Liao, Xing Li, Tao Yang, Fangxin Liu and Xiaoyao Liang. Sava: A Spatial- and Value-Aware Accelerator for Point Cloud Transformers. Accepted by Design, Automation, and Test in Europe (DATE 2024). [[blog]](/_posts/2023-11-12-Sava_ A Spatial- and Value-Aware Accelerator for Point Cloud Transformer.md)
 
-Xing Li, Zhuoran Song, Rachata Ausavarungnirun, Xiao Liu, **Xueyuan Liu**, Xuan Zhang, Xuhang Wang, Jiayao Ling, Gang Li, Naifeng Jing, Xiaoyao Liang. Janus: A Flexible Processing-in-Memory Graph Accelerator Towards Sparsity[J]. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2024.
+Xing Li, Zhuoran Song, Rachata Ausavarungnirun, Xiao Liu, **Xueyuan Liu**, Xuan Zhang, Xuhang Wang, Jiayao Ling, Gang Li, Naifeng Jing, Xiaoyao Liang. Janus: A Flexible Processing-in-Memory Graph Accelerator Towards Sparsity. Accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2024. [[view]](https://ieeexplore.ieee.org/abstract/document/10540086)
 
 # 2022
 

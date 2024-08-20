@@ -17,7 +17,7 @@ Authors: **Xueyuan Liu**, Zhuoran Song, Xiang Liao, Xing Li, Tao Yang, Fangxin L
 <img src="../assets/img/post/sava-algorithm.png" alt="Sava Algorithm" width="500" height="300" />
 
 * Accepted by Design, Automation, and Test in Europe (DATE 2024)
-* [paper]() (coming soon...)
+* [paper](https://ieeexplore.ieee.org/abstract/document/10546677)
 * [slide](https://jbox.sjtu.edu.cn:10081/v2%2Fdelivery%2Fdata%2F8ec8d6dba3e34fa78b945cd388f4f4a7%2F?)
 * [poster](https://jbox.sjtu.edu.cn:10081/v2%2Fdelivery%2Fdata%2F1b4bb9caa4504fceb4d5eeafa0edeb8a%2F?)
-* [cite]() (coming soon...)
+* [cite](https://scholar.googleusercontent.com/scholar.bib?q=info:iTU78JvDKKAJ:scholar.google.com/&output=citation&scisdr=ClHXPTw8EMPR0nV4ml4:AFWwaeYAAAAAZsR-gl4RmtR2i5wllX7XVuwCfsY&scisig=AFWwaeYAAAAAZsR-ghxa4Quj680L_kqwnNZMj-4&scisf=4&ct=citation&cd=-1&hl=zh-CN)
