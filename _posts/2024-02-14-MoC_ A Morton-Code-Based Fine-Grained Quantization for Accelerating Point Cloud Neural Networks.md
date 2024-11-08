@@ -18,7 +18,7 @@ Authors: **Xueyuan Liu**, Zhuoran Song, Hao Chen, Xing Li, and Xiaoyao Liang
 ![moc](/assets/img/post/moc-algorithm.png)
 
 * Accepted by Design Automation Conference (DAC 2024).
-* [paper]() (coming soon...)
+* [paper](https://doi.org/10.1145/3649329.3655905) 
 * [slide](https://jbox.sjtu.edu.cn/l/Z1TOy3)
 * [poster](https://jbox.sjtu.edu.cn/l/n1b2kK)
 * [cite]() (coming soon...)
