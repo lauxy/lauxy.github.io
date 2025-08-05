@@ -4,6 +4,10 @@ title: Publications
 # subtitle: Why you'd want to go on a date with me
 ---
 
+# 2025
+
+Ruiyang Chen, **Xueyuan Liu**, Chunyu Qi, Yuanzheng Yao, Yanan Sun, Xiaoyao Liang, and Zhuoran Song. SAGA: A Memory-Efficient Accelerator for GANN Construction via Harnessing Vertex Similarity. Accepted by Design Automation Conference (DAC 2025, CCF-A).
+
 # 2024
 
 **Xueyuan Liu**, Zhuoran Song, Hao Chen, Xing Li, and Xiaoyao Liang. MoC: A Morton-Code-Based Fine-Grained Quantization for Accelerating Point Cloud Neural Networks. Accepted by Design Automation Conference (DAC 2024). [[blog]](/_posts/2024-02-14-MoC_ A Morton-Code-Based Fine-Grained Quantization for Accelerating Point Cloud Neural Networks.md)
@@ -13,6 +17,8 @@ title: Publications
 **Xueyuan Liu**, Zhuoran Song, Xiang Liao, Xing Li, Tao Yang, Fangxin Liu and Xiaoyao Liang. Sava: A Spatial- and Value-Aware Accelerator for Point Cloud Transformers. Accepted by Design, Automation, and Test in Europe (DATE 2024). [[blog]](/_posts/2023-11-12-Sava_ A Spatial- and Value-Aware Accelerator for Point Cloud Transformer.md)
 
 Xing Li, Zhuoran Song, Rachata Ausavarungnirun, Xiao Liu, **Xueyuan Liu**, Xuan Zhang, Xuhang Wang, Jiayao Ling, Gang Li, Naifeng Jing, Xiaoyao Liang. Janus: A Flexible Processing-in-Memory Graph Accelerator Towards Sparsity. Accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2024. [[view]](https://ieeexplore.ieee.org/abstract/document/10540086)
+
+Xuan Zhang, Zhuoran Song, Peng Zhou, Xing Li, **Xueyuan Liu**, Xiaolong Lin, Zhezhi He, Li Jiang, Naifeng Jing and Xiaoyao Liang. WIFA: A Weight Importance- and Frequency-aware Accelerator for SNN. Accepted by IEEE International Conference on Computer Design (ICCD 2024, CCF-B).
 
 # 2022
 

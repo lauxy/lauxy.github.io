@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Xueyuan Liu
-subtitle: Ph.D. Student @ ACALab, CSE, Shanghai Jiao Tong University
+# subtitle: Ph.D. Student @ ACALab, CSE, Shanghai Jiao Tong University
 ---
 
 News
@@ -17,7 +17,7 @@ News
 `2023.11` Our paper "Sava: A Spatial- and Value-Aware Accelerator for Point Cloud Transformers" has been accepted by DATE.
 
 
-Research
+<!-- Research
 -----------
 Current research interests focuses on:
 
@@ -26,7 +26,7 @@ Current research interests focuses on:
 - Point Cloud (点云)
     - Point Cloud Neural Network (点云神经网络)
     - Point Cloud Compression (点云压缩)
-    - Point Cloud Rendering (点云渲染)
+    - Point Cloud Rendering (点云渲染) -->
 
 
 Recent Visits to My Homepage
