@@ -22,7 +22,3 @@ Computer Architecture, Software-Hardware Co-design, AI Accleration, GPGPU.
 # Leadership Experience
 
 **Chairman** of the Executive Committee, SJTU Student Branch of China Computer Federation (CCF), 2023 - Present [[view]](https://www.ccf.org.cn/Chapters/Student_Chapters/SJTU/hyhdzxdt/2023-12-27/811146.shtml)
-<!-- 
-**Chairman-Elect** of the Executive Committee, SJTU Student Branch of China Computer Federation (CCF), 2022 - 2023 [[view]](https://www.ccf.org.cn/Chapters/Student_Chapters/SJTU/hyhdzxdt/2022-11-14/777306.shtml)
-
-**Member** of the Executive Committee, SJTU Student Branch of China Computer Federation (CCF), 2021 - 2022 -->
