@@ -19,6 +19,6 @@ Computer Architecture, Software-Hardware Co-design, AI Accleration, GPGPU.
 
 **Senior System Software Engineer**, Li Auto Inc., Jul. 2025 - Present
 
-# Leadership Experience
+<!-- # Leadership Experience -->
 
-**Chairman** of the Executive Committee, SJTU Student Branch of China Computer Federation (CCF), 2023 - Present [[view]](https://www.ccf.org.cn/Chapters/Student_Chapters/SJTU/hyhdzxdt/2023-12-27/811146.shtml)
+<!-- **Chairman** of the Executive Committee, SJTU Student Branch of China Computer Federation (CCF), 2023 - Present [[view]](https://www.ccf.org.cn/Chapters/Student_Chapters/SJTU/hyhdzxdt/2023-12-27/811146.shtml) -->
