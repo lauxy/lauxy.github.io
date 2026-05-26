@@ -1,18 +1,127 @@
-.academic-page {
-  padding-top: 2.5rem;
-  padding-bottom: 3rem;
+/* === CSS Variables (Light/Dark Theme) === */
+:root {
+  --bg-primary: #ffffff;
+  --bg-secondary: #f8f9fa;
+  --text-primary: #333333;
+  --text-secondary: #555555;
+  --text-muted: #777777;
+  --border-color: #eeeeee;
+  --heading-border: #333333;
+  --link-color: #008AFF;
+  --link-hover: #0085A1;
+  --award-color: #c0392b;
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.04);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.08);
+  --navbar-bg: #EAEAEA;
+  --navbar-border: #DDDDDD;
+  --navbar-text: #404040;
 }
 
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-primary: #1a1a2e;
+    --bg-secondary: #16213e;
+    --text-primary: #e0e0e0;
+    --text-secondary: #b8b8b8;
+    --text-muted: #888888;
+    --border-color: #2a2a4a;
+    --heading-border: #e0e0e0;
+    --link-color: #64b5f6;
+    --link-hover: #90caf9;
+    --award-color: #ef5350;
+    --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.2);
+    --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.3);
+    --navbar-bg: #0f3460;
+    --navbar-border: #1a1a4a;
+    --navbar-text: #e0e0e0;
+  }
+}
+
+/* === Global Overrides for Dark Mode === */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: var(--bg-primary) !important;
+    color: var(--text-primary) !important;
+  }
+
+  .navbar-custom {
+    background-color: var(--navbar-bg) !important;
+    border-bottom-color: var(--navbar-border) !important;
+  }
+
+  .navbar-custom .navbar-brand,
+  .navbar-custom .navbar-nav .nav-link {
+    color: var(--navbar-text) !important;
+  }
+
+  .navbar-custom .navbar-toggler-icon {
+    filter: invert(1);
+  }
+
+  footer {
+    background-color: var(--bg-secondary) !important;
+    border-top-color: var(--border-color) !important;
+  }
+
+  footer,
+  footer a {
+    color: var(--text-muted) !important;
+  }
+}
+
+/* === Smooth Scroll === */
+html {
+  scroll-behavior: smooth;
+}
+
+/* === Animations === */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideInLeft {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+/* === Page Layout === */
+.academic-page {
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+  background-color: var(--bg-primary);
+  min-height: 100vh;
+}
+
+/* === Sidebar === */
 .academic-sidebar {
   text-align: center;
   padding-right: 2rem;
+  animation: fadeInUp 0.6s ease-out;
 }
 
 .academic-photo {
   width: 100%;
   max-width: 200px;
-  border-radius: 6px;
+  border-radius: 8px;
   margin-bottom: 1rem;
+  box-shadow: var(--shadow-md);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.academic-photo:hover {
+  transform: scale(1.02);
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.12);
 }
 
 .academic-name {
@@ -21,18 +130,19 @@
   font-weight: 700;
   margin-bottom: 0.3rem;
   margin-top: 0;
+  color: var(--text-primary);
 }
 
 .academic-position {
   font-size: 0.95rem;
-  color: #555;
+  color: var(--text-secondary);
   margin-bottom: 0.15rem;
   margin-top: 0;
 }
 
 .academic-affiliation {
   font-size: 0.9rem;
-  color: #777;
+  color: var(--text-muted);
   margin-bottom: 1rem;
   margin-top: 0;
 }
@@ -42,35 +152,64 @@
 }
 
 .academic-contact a {
+  display: inline-block;
   margin: 0 0.5rem;
-  color: #555;
+  color: var(--text-secondary);
   font-size: 1.3rem;
-  transition: color 0.2s;
+  transition: color 0.25s ease, transform 0.25s ease;
 }
 
 .academic-contact a:hover {
-  color: #008AFF;
+  color: var(--link-color);
+  transform: scale(1.2);
   text-decoration: none;
+}
+
+/* === Content Area === */
+.academic-content {
+  animation: fadeInUp 0.6s ease-out 0.15s both;
 }
 
 .academic-content h2 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 1.35rem;
   font-weight: 700;
-  border-bottom: 2px solid #333;
-  padding-bottom: 0.35rem;
-  margin-top: 1.8rem;
+  color: var(--text-primary);
+  padding-bottom: 0.4rem;
+  margin-top: 2rem;
   margin-bottom: 0.8rem;
+  position: relative;
+  border-bottom: none;
+}
+
+.academic-content h2::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 2px;
+  background-color: var(--heading-border);
+  animation: slideInLeft 0.5s ease-out forwards;
 }
 
 .academic-content h2:first-child {
   margin-top: 0;
 }
 
+.academic-content h3 {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-top: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
 .academic-content p {
-  font-size: 0.98rem;
-  line-height: 1.6;
+  font-size: 0.95rem;
+  line-height: 1.65;
   margin: 0.6rem 0;
+  color: var(--text-primary);
 }
 
 .academic-content ul {
@@ -79,11 +218,22 @@
 }
 
 .academic-content li {
-  font-size: 0.95rem;
-  line-height: 1.5;
+  font-size: 0.93rem;
+  line-height: 1.55;
   margin-bottom: 0.3rem;
+  color: var(--text-primary);
 }
 
+.academic-content a {
+  color: var(--link-color);
+  transition: color 0.2s ease;
+}
+
+.academic-content a:hover {
+  color: var(--link-hover);
+}
+
+/* === News List === */
 .news-list {
   list-style: none;
   padding-left: 0;
@@ -92,67 +242,128 @@
 
 .news-list li {
   margin-bottom: 0.5rem;
-  font-size: 0.93rem;
-  line-height: 1.5;
+  font-size: 0.92rem;
+  line-height: 1.55;
+  color: var(--text-primary);
+  padding: 0.4rem 0.6rem;
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
+}
+
+.news-list li:hover {
+  background-color: var(--bg-secondary);
 }
 
 .news-date {
   font-weight: 600;
-  color: #333;
+  color: var(--text-secondary);
   display: inline-block;
-  min-width: 75px;
+  min-width: 78px;
 }
 
+/* === Publication Items === */
 .pub-item {
-  margin-bottom: 0.75rem;
-  font-size: 0.93rem;
-  line-height: 1.55;
+  margin-bottom: 0.8rem;
+  font-size: 0.92rem;
+  line-height: 1.6;
+  color: var(--text-primary);
+  padding: 0.6rem 0.8rem;
+  border-radius: 6px;
+  border-left: 3px solid transparent;
+  transition: background-color 0.25s ease, border-color 0.25s ease, transform 0.2s ease;
+}
+
+.pub-item:hover {
+  background-color: var(--bg-secondary);
+  border-left-color: var(--link-color);
+  transform: translateX(4px);
 }
 
 .pub-venue {
   font-style: italic;
+  color: var(--text-secondary);
 }
 
 .pub-award {
-  color: #c0392b;
+  color: var(--award-color);
   font-weight: 600;
 }
 
-.pub-link {
+.pub-links {
+  display: inline;
   font-size: 0.85rem;
+  margin-left: 0.3rem;
 }
 
+.pub-links a {
+  color: var(--link-color);
+  margin: 0 0.15rem;
+  transition: color 0.2s ease;
+}
+
+.pub-links a:hover {
+  color: var(--link-hover);
+}
+
+/* === Education Items === */
 .edu-item {
-  margin-bottom: 0.5rem;
-  font-size: 0.95rem;
+  margin-bottom: 0.6rem;
+  font-size: 0.93rem;
+  color: var(--text-primary);
 }
 
 .edu-item strong {
   display: block;
+  color: var(--text-primary);
 }
 
 .edu-time {
-  color: #777;
-  font-size: 0.88rem;
+  color: var(--text-muted);
+  font-size: 0.87rem;
 }
 
+/* === Responsive: Mobile === */
 @media (max-width: 767px) {
+  .academic-page {
+    padding-top: 4.5rem;
+  }
+
   .academic-sidebar {
     padding-right: 15px;
     padding-bottom: 1.5rem;
     margin-bottom: 1.5rem;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid var(--border-color);
   }
 
-  .academic-page {
-    padding-top: 1.5rem;
+  .academic-photo {
+    max-width: 150px;
+  }
+
+  .academic-content h2 {
+    font-size: 1.2rem;
+  }
+
+  .pub-item {
+    padding: 0.4rem 0.5rem;
   }
 }
 
+/* === Responsive: Tablet === */
+@media (min-width: 768px) and (max-width: 1023px) {
+  .academic-sidebar {
+    padding-right: 1.5rem;
+  }
+
+  .academic-photo {
+    max-width: 170px;
+  }
+}
+
+/* === Responsive: Desktop === */
 @media (min-width: 768px) {
   .academic-sidebar {
     position: sticky;
-    top: 80px;
+    top: 5rem;
     align-self: flex-start;
   }
 }
