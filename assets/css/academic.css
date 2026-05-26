@@ -97,7 +97,7 @@ html {
 
 /* === Page Layout === */
 .academic-page {
-  padding-top: 5rem;
+  padding-top: 6.5rem;
   padding-bottom: 3rem;
   background-color: var(--bg-primary);
   min-height: 100vh;
@@ -325,7 +325,7 @@ html {
 /* === Responsive: Mobile === */
 @media (max-width: 767px) {
   .academic-page {
-    padding-top: 4.5rem;
+    padding-top: 5rem;
   }
 
   .academic-sidebar {
@@ -363,7 +363,7 @@ html {
 @media (min-width: 768px) {
   .academic-sidebar {
     position: sticky;
-    top: 5rem;
+    top: 6.5rem;
     align-self: flex-start;
   }
 }
