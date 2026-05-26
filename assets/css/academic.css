@@ -45,6 +45,15 @@
   }
 }
 
+/* === Hide navbar and footer === */
+.navbar-custom {
+  display: none !important;
+}
+
+footer {
+  display: none !important;
+}
+
 /* === Smooth Scroll === */
 html {
   scroll-behavior: smooth;
