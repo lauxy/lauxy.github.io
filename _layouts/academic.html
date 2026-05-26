@@ -1,0 +1,52 @@
+---
+layout: base
+---
+
+<main class="container-md academic-page">
+  <div class="row">
+    <div class="col-lg-4 col-md-4 academic-sidebar">
+      <div class="academic-photo-container">
+        <img src="{{ site.avatar | relative_url }}" alt="{{ site.author }}" class="academic-photo" />
+      </div>
+      <h1 class="academic-name">{{ site.author }}</h1>
+      {% if page.position %}
+        <p class="academic-position">{{ page.position }}</p>
+      {% endif %}
+      {% if page.affiliation %}
+        <p class="academic-affiliation">{{ page.affiliation }}</p>
+      {% endif %}
+
+      <div class="academic-contact">
+        {% if site.social-network-links.email %}
+          <a href="mailto:{{ site.social-network-links.email }}" title="Email">
+            <i class="fas fa-envelope"></i>
+          </a>
+        {% endif %}
+        {% if site.social-network-links.google-scholar %}
+          <a href="https://scholar.google.com/{{ site.social-network-links.google-scholar }}" title="Google Scholar" target="_blank">
+            <i class="fas fa-graduation-cap"></i>
+          </a>
+        {% endif %}
+        {% if site.social-network-links.github %}
+          <a href="https://github.com/{{ site.social-network-links.github }}" title="GitHub" target="_blank">
+            <i class="fab fa-github"></i>
+          </a>
+        {% endif %}
+        {% if site.social-network-links.linkedin %}
+          <a href="https://www.linkedin.com/in/{{ site.social-network-links.linkedin }}" title="LinkedIn" target="_blank">
+            <i class="fab fa-linkedin"></i>
+          </a>
+        {% endif %}
+        {% if site.social-network-links.ORCID %}
+          <a href="https://orcid.org/{{ site.social-network-links.ORCID }}" title="ORCID" target="_blank">
+            <i class="fab fa-orcid"></i>
+          </a>
+        {% endif %}
+      </div>
+    </div>
+
+    <div class="col-lg-8 col-md-8 academic-content">
+      {{ content }}
+    </div>
+  </div>
+</main>

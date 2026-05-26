@@ -1,0 +1,158 @@
+.academic-page {
+  padding-top: 2.5rem;
+  padding-bottom: 3rem;
+}
+
+.academic-sidebar {
+  text-align: center;
+  padding-right: 2rem;
+}
+
+.academic-photo {
+  width: 100%;
+  max-width: 200px;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+}
+
+.academic-name {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 0.3rem;
+  margin-top: 0;
+}
+
+.academic-position {
+  font-size: 0.95rem;
+  color: #555;
+  margin-bottom: 0.15rem;
+  margin-top: 0;
+}
+
+.academic-affiliation {
+  font-size: 0.9rem;
+  color: #777;
+  margin-bottom: 1rem;
+  margin-top: 0;
+}
+
+.academic-contact {
+  margin-top: 0.5rem;
+}
+
+.academic-contact a {
+  margin: 0 0.5rem;
+  color: #555;
+  font-size: 1.3rem;
+  transition: color 0.2s;
+}
+
+.academic-contact a:hover {
+  color: #008AFF;
+  text-decoration: none;
+}
+
+.academic-content h2 {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1.35rem;
+  font-weight: 700;
+  border-bottom: 2px solid #333;
+  padding-bottom: 0.35rem;
+  margin-top: 1.8rem;
+  margin-bottom: 0.8rem;
+}
+
+.academic-content h2:first-child {
+  margin-top: 0;
+}
+
+.academic-content p {
+  font-size: 0.98rem;
+  line-height: 1.6;
+  margin: 0.6rem 0;
+}
+
+.academic-content ul {
+  padding-left: 1.2rem;
+  margin: 0.5rem 0;
+}
+
+.academic-content li {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin-bottom: 0.3rem;
+}
+
+.news-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.news-list li {
+  margin-bottom: 0.5rem;
+  font-size: 0.93rem;
+  line-height: 1.5;
+}
+
+.news-date {
+  font-weight: 600;
+  color: #333;
+  display: inline-block;
+  min-width: 75px;
+}
+
+.pub-item {
+  margin-bottom: 0.75rem;
+  font-size: 0.93rem;
+  line-height: 1.55;
+}
+
+.pub-venue {
+  font-style: italic;
+}
+
+.pub-award {
+  color: #c0392b;
+  font-weight: 600;
+}
+
+.pub-link {
+  font-size: 0.85rem;
+}
+
+.edu-item {
+  margin-bottom: 0.5rem;
+  font-size: 0.95rem;
+}
+
+.edu-item strong {
+  display: block;
+}
+
+.edu-time {
+  color: #777;
+  font-size: 0.88rem;
+}
+
+@media (max-width: 767px) {
+  .academic-sidebar {
+    padding-right: 15px;
+    padding-bottom: 1.5rem;
+    margin-bottom: 1.5rem;
+    border-bottom: 1px solid #eee;
+  }
+
+  .academic-page {
+    padding-top: 1.5rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .academic-sidebar {
+    position: sticky;
+    top: 80px;
+    align-self: flex-start;
+  }
+}
