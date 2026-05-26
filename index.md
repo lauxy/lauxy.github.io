@@ -10,13 +10,13 @@ css:
 
 ## About
 
-I received my Ph.D. degree from [ACALab](http://acalab.sjtu.edu.cn), Shanghai Jiao Tong University (SJTU), advised by Prof. Xiaoyao Liang. My research focuses on computer architecture, software-hardware co-design, AI acceleration, and GPGPU.
+I received my Ph.D. degree from ACALab, Shanghai Jiao Tong University (SJTU), advised by Prof. Xiaoyao Liang. My research focuses on computer architecture (ASIC and GPGPU), software-hardware co-design.
 
 ## Research Interests
 
-- Computer Architecture & Software-Hardware Co-design
-- AI Acceleration (Point Cloud Neural Networks)
-- General-Purpose Graphics Processing Units (GPGPU)
+- Software-Hardware Co-design
+- AI Acceleration Architecture
+- General-Purpose Graphics Processing Units Architecture
 
 ## News
 

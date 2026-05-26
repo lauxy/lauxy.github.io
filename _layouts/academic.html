@@ -1,6 +1,12 @@
 ---
-layout: base
+layout: null
 ---
+
+<!DOCTYPE html>
+<html lang="{{ page.language | default: site.language | default: 'en' }}">
+{% include head.html %}
+
+<body>
 
 <main class="container-md academic-page">
   <div class="row">
@@ -50,3 +56,8 @@ layout: base
     </div>
   </div>
 </main>
+
+{% include footer-scripts.html %}
+
+</body>
+</html>

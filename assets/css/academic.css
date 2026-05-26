@@ -43,30 +43,6 @@
     background-color: var(--bg-primary) !important;
     color: var(--text-primary) !important;
   }
-
-  .navbar-custom {
-    background-color: var(--navbar-bg) !important;
-    border-bottom-color: var(--navbar-border) !important;
-  }
-
-  .navbar-custom .navbar-brand,
-  .navbar-custom .navbar-nav .nav-link {
-    color: var(--navbar-text) !important;
-  }
-
-  .navbar-custom .navbar-toggler-icon {
-    filter: invert(1);
-  }
-
-  footer {
-    background-color: var(--bg-secondary) !important;
-    border-top-color: var(--border-color) !important;
-  }
-
-  footer,
-  footer a {
-    color: var(--text-muted) !important;
-  }
 }
 
 /* === Smooth Scroll === */
@@ -97,7 +73,7 @@ html {
 
 /* === Page Layout === */
 .academic-page {
-  padding-top: 6.5rem;
+  padding-top: 3rem;
   padding-bottom: 3rem;
   background-color: var(--bg-primary);
   min-height: 100vh;
@@ -325,7 +301,7 @@ html {
 /* === Responsive: Mobile === */
 @media (max-width: 767px) {
   .academic-page {
-    padding-top: 5rem;
+    padding-top: 2rem;
   }
 
   .academic-sidebar {
@@ -363,7 +339,7 @@ html {
 @media (min-width: 768px) {
   .academic-sidebar {
     position: sticky;
-    top: 6.5rem;
+    top: 3rem;
     align-self: flex-start;
   }
 }
