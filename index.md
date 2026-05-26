@@ -32,21 +32,21 @@ I received my Ph.D. degree from ACALab, Shanghai Jiao Tong University (SJTU), ad
 ### 2025
 
 <div class="pub-item">
-Ruiyang Chen, <strong>Xueyuan Liu</strong>, Chunyu Qi, Yuanzheng Yao, Yanan Sun, Xiaoyao Liang, and Zhuoran Song. "SAGA: A Memory-Efficient Accelerator for GANN Construction via Harnessing Vertex Similarity." <span class="pub-venue">Design Automation Conference (DAC 2025, CCF-A).</span>
+Ruiyang Chen, <strong>Xueyuan Liu</strong>, Chunyu Qi, Yuanzheng Yao, Yanan Sun, Xiaoyao Liang, and Zhuoran Song. "SAGA: A Memory-Efficient Accelerator for GANN Construction via Harnessing Vertex Similarity." <span class="pub-venue">Design Automation Conference (DAC 2025, CCF-A).</span> <span class="pub-links">[<a href="https://ieeexplore.ieee.org/document/11133305" target="_blank">paper</a>]</span>
 </div>
 
 ### 2024
 
 <div class="pub-item">
-<strong>Xueyuan Liu</strong>, Zhuoran Song, Hao Chen, Xing Li, and Xiaoyao Liang. "MoC: A Morton-Code-Based Fine-Grained Quantization for Accelerating Point Cloud Neural Networks." <span class="pub-venue">Design Automation Conference (DAC 2024).</span> <span class="pub-links">[<a href="/2024-02-14-MoC_ A Morton-Code-Based Fine-Grained Quantization for Accelerating Point Cloud Neural Networks/">blog</a>]</span>
+<strong>Xueyuan Liu</strong>, Zhuoran Song, Hao Chen, Xing Li, and Xiaoyao Liang. "MoC: A Morton-Code-Based Fine-Grained Quantization for Accelerating Point Cloud Neural Networks." <span class="pub-venue">Design Automation Conference (DAC 2024).</span> <span class="pub-links">[<a href="https://dl.acm.org/doi/10.1145/3649329.3655905" target="_blank">paper</a>]</span>
 </div>
 
 <div class="pub-item">
-<strong>Xueyuan Liu</strong>, Zhuoran Song, Guohao Dai, Gang Li, Can Xiao, Yan Xiang, Dehui Kong, Ke Xu and Xiaoyao Liang. "FusionArch: A Fusion-Based Accelerator for Point-Based Point Cloud Neural Networks." <span class="pub-venue">Design, Automation, and Test in Europe (DATE 2024).</span> <span class="pub-award">Best Paper Award.</span> <span class="pub-links">[<a href="/2023-11-12-FusionArch_ A Fusion-Based Accelerator for Point-Based Point Cloud Neural Networks/">blog</a>]</span>
+<strong>Xueyuan Liu</strong>, Zhuoran Song, Guohao Dai, Gang Li, Can Xiao, Yan Xiang, Dehui Kong, Ke Xu and Xiaoyao Liang. "FusionArch: A Fusion-Based Accelerator for Point-Based Point Cloud Neural Networks." <span class="pub-venue">Design, Automation, and Test in Europe (DATE 2024).</span> <span class="pub-award">Best Paper Award.</span> <span class="pub-links">[<a href="https://ieeexplore.ieee.org/document/10546759" target="_blank">paper</a>]</span>
 </div>
 
 <div class="pub-item">
-<strong>Xueyuan Liu</strong>, Zhuoran Song, Xiang Liao, Xing Li, Tao Yang, Fangxin Liu and Xiaoyao Liang. "Sava: A Spatial- and Value-Aware Accelerator for Point Cloud Transformers." <span class="pub-venue">Design, Automation, and Test in Europe (DATE 2024).</span> <span class="pub-links">[<a href="/2023-11-12-Sava_ A Spatial- and Value-Aware Accelerator for Point Cloud Transformer/">blog</a>]</span>
+<strong>Xueyuan Liu</strong>, Zhuoran Song, Xiang Liao, Xing Li, Tao Yang, Fangxin Liu and Xiaoyao Liang. "Sava: A Spatial- and Value-Aware Accelerator for Point Cloud Transformers." <span class="pub-venue">Design, Automation, and Test in Europe (DATE 2024).</span> <span class="pub-links">[<a href="https://ieeexplore.ieee.org/document/10546677" target="_blank">paper</a>]</span>
 </div>
 
 <div class="pub-item">
