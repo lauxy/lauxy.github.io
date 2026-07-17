@@ -21,7 +21,8 @@ I received my Ph.D. degree from ACALab, Shanghai Jiao Tong University (SJTU), ad
 ## News
 
 <ul class="news-list">
-<li><span class="news-date">[2025.01]</span> Paper "SAGA" accepted by DAC 2025 (CCF-A).</li>
+<li><span class="news-date">[2026.07]</span> Paper "SpecVLA" accepted by MICRO 2026.</li>
+<li><span class="news-date">[2025.01]</span> Paper "SAGA" accepted by DAC 2025.</li>
 <li><span class="news-date">[2024.03]</span> Our paper "FusionArch" received <strong>Best Paper Award</strong> at DATE 2024.</li>
 <li><span class="news-date">[2024.02]</span> Paper "MoC" accepted by DAC 2024.</li>
 <li><span class="news-date">[2023.11]</span> Papers "FusionArch" and "Sava" accepted by DATE 2024.</li>
@@ -29,10 +30,16 @@ I received my Ph.D. degree from ACALab, Shanghai Jiao Tong University (SJTU), ad
 
 ## Publications
 
+### 2026
+
+<div class="pub-item">
+Chunyu Qi, Zhuoran Song, Jian Weng, Haozhe Jiang, <strong>Xueyuan Liu</strong>, Naifeng Jing, Guanghui He, Xiaoyao Liang, and Haibing Guan. "SpecVLA: Enabling Efficient Robotic Manipulation via Speculative VLA Inference and Verification." <span class="pub-venue">IEEE/ACM International Symposium on Microarchitecture (MICRO 2026).</span>
+</div>
+
 ### 2025
 
 <div class="pub-item">
-Ruiyang Chen, <strong>Xueyuan Liu</strong>, Chunyu Qi, Yuanzheng Yao, Yanan Sun, Xiaoyao Liang, and Zhuoran Song. "SAGA: A Memory-Efficient Accelerator for GANN Construction via Harnessing Vertex Similarity." <span class="pub-venue">Design Automation Conference (DAC 2025, CCF-A).</span> <span class="pub-links">[<a href="https://ieeexplore.ieee.org/document/11133305" target="_blank">paper</a>]</span>
+Ruiyang Chen, <strong>Xueyuan Liu</strong>, Chunyu Qi, Yuanzheng Yao, Yanan Sun, Xiaoyao Liang, and Zhuoran Song. "SAGA: A Memory-Efficient Accelerator for GANN Construction via Harnessing Vertex Similarity." <span class="pub-venue">Design Automation Conference (DAC 2025).</span> <span class="pub-links">[<a href="https://ieeexplore.ieee.org/document/11133305" target="_blank">paper</a>]</span>
 </div>
 
 ### 2024
