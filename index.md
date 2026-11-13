@@ -21,7 +21,7 @@ I received my Ph.D. degree from ACALab, Shanghai Jiao Tong University (SJTU), ad
 ## News
 
 <ul class="news-list">
-<li><span class="news-date">[2026.11]</span> Paper "PQuant" accepted by ACM TACO.</li>
+<li><span class="news-date">[2026.10]</span> Paper "PQuant" accepted by ACM TACO.</li>
 <li><span class="news-date">[2026.07]</span> Paper "SpecVLA" accepted by MICRO 2026.</li>
 <li><span class="news-date">[2025.01]</span> Paper "SAGA" accepted by DAC 2025.</li>
 <li><span class="news-date">[2024.03]</span> Our paper "FusionArch" received <strong>Best Paper Award</strong> at DATE 2024.</li>
