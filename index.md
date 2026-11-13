@@ -21,6 +21,7 @@ I received my Ph.D. degree from ACALab, Shanghai Jiao Tong University (SJTU), ad
 ## News
 
 <ul class="news-list">
+<li><span class="news-date">[2026.11]</span> Paper "PQuant" accepted by ACM TACO.</li>
 <li><span class="news-date">[2026.07]</span> Paper "SpecVLA" accepted by MICRO 2026.</li>
 <li><span class="news-date">[2025.01]</span> Paper "SAGA" accepted by DAC 2025.</li>
 <li><span class="news-date">[2024.03]</span> Our paper "FusionArch" received <strong>Best Paper Award</strong> at DATE 2024.</li>
@@ -34,6 +35,10 @@ I received my Ph.D. degree from ACALab, Shanghai Jiao Tong University (SJTU), ad
 
 <div class="pub-item">
 Chunyu Qi, Zhuoran Song, Jian Weng, Haozhe Jiang, <strong>Xueyuan Liu</strong>, Naifeng Jing, Guanghui He, Xiaoyao Liang, and Haibing Guan. "SpecVLA: Enabling Efficient Robotic Manipulation via Speculative VLA Inference and Verification." <span class="pub-venue">IEEE/ACM International Symposium on Microarchitecture (MICRO 2026).</span>
+</div>
+
+<div class="pub-item">
+Zhuoran Song, Hangcheng Dong, <strong>Xueyuan Liu</strong>, Zhihui Fu, Jun Wang, Zhaoxiang Wang, Jian Weng, Xiaoyao Liang, and Haibing Guan. "PQuant: Point Cloud Neural Network Acceleration via a Versatile Quantization Framework." <span class="pub-venue">ACM Transactions on Architecture and Code Optimization (TACO 2026).</span>
 </div>
 
 ### 2025
